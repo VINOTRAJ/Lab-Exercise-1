@@ -4,7 +4,7 @@ public class PrimeNumber {
 	{
 		int num=15;
 		
-		for(int i=1;i<=num;i++)
+		for(int i=2;i<=num;i++)
 		{
 			int count=0;
 			for(int j=1;j<=num;j++)
